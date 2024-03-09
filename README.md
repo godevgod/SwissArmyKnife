@@ -1,4 +1,4 @@
-#SwissArmyKnife
+# SwissArmyKnife
 for_all_useful_functions
 
 This project is under The Unlicense, which means you can do whatever you want with this code.
@@ -11,7 +11,7 @@ If you find this code useful and wish to express gratitude, you are welcome to m
 
 1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 
-#SwissArmyKnife
+# SwissArmyKnife
 
 เครื่องมือที่มีประโยชน์สำหรับทุกการใช้งาน
 
